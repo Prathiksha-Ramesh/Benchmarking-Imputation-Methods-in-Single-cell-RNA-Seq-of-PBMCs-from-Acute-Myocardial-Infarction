@@ -22,7 +22,7 @@ We benchmarked the following imputation methods:
 
 - SoftImpute – matrix completion via low-rank approximation 
 
-- GAN-based Imputation (scIGANs) – deep learning with adversarial networks 
+- GAN-based Imputation – deep learning with adversarial networks 
 Installation
 
 
