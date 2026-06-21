@@ -111,7 +111,7 @@ Run the notebooks in the following order to reproduce the full benchmark:
 
 | ARI Comparison (All Methods) | Gene-wise Correlation |
 |---|---|
-| ![ARI Summary](ARI_Summary.png) | ![Gene Correlation](gene_correlation_all_methods.png) |
+| ![ARI Summary](ARI_all_methods.png) | ![Gene Correlation](gene_correlation_all_methods.png) |
 
 | Clustering Heatmap | Silhouette Score |
 |---|---|
